@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Mac or Linux system files
+.DS_Store
+
+# Windows thumbnail files
+Thumbs.db
